@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on IBMC Consultancy Project
 
-🌱 I’m currently learning Android
+🌱 I’m currently learning Mern Stack
 
 👨‍💻 All of my projects are available at Ajay's workspace
 
