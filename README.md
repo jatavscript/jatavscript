@@ -46,16 +46,10 @@ Ajay's Stick Hero Game is a fun and challenging game where players must stretch 
 * <a href="https://jatavscript.github.io/Stick-Hero-Game/" target="_blank">Live Demo 🚀</a>
 * <a href="https://github.com/jatavscript/Stick-Hero-Game.git" target="_blank">Repository 🗂️</a>
 
-### 2. Ajay-GeneratorQR 🚀
+### 2. Ajay's - AI Image Generator
 
-Ajay-GeneratorQR allows you to create custom QR codes for various purposes, such as sharing links, contact information, or text messages.
+The AI Image Generator is a powerful web-based tool that transforms text descriptions into stunning AI-generated images..
 
-* <a href="https://jatavscript.github.io/Stick-Hero-Game/" target="_blank">Live Demo 🚀</a>
-* <a href="https://github.com/jatavscript/Stick-Hero-Game.git" target="_blank">Repository 🗂️</a>
-
-### 3. Glob Techpower Foundation Website 🌍
-
-A live website developed for Glob Techpower Foundation, a non-profit empowering women and girls in IT.
-
-* <a href="https://github.com/jagratimehta410/Glob-Tpf" target="_blank">Repository 🗂️</a>
+* <a href="https://jatavscript.github.io/Ai-ImageGenerator/" target="_blank">Live Demo 🚀</a>
+* <a href="https://github.com/jatavscript/Ai-ImageGenerator.git" target="_blank">Repository 🗂️</a>
 
