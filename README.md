@@ -43,8 +43,8 @@ Tools
 
 Ajay's Stick Hero Game is a fun and challenging game where players must stretch a stick to help the hero cross platforms. The game tests precision and timing, making it highly engaging for users.
 
-* <a href="https://jagratimehta410.github.io/jag-portfolio/" target="_blank">Live Demo 🚀</a>
-* <a href="https://github.com/jagratimehta410/jag-portfolio" target="_blank">Repository 🗂️</a>
+* <a href="https://jatavscript.github.io/Stick-Hero-Game/" target="_blank">Live Demo 🚀</a>
+* <a href="https://github.com/jatavscript/Stick-Hero-Game.git" target="_blank">Repository 🗂️</a>
 
 ### 2. Ajay-GeneratorQR 🚀
 
