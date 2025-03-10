@@ -39,9 +39,9 @@ Tools
 🎯*Projects*
 ==========
 
-### 1. Ajay Portfolio 📚
+### 1. Ajay's - Stick Hero Game 🎮
 
-This project showcases my skills and work as a web developer. It features a clean and elegant design to highlight my projects, skills, certifications, resume, and contact information.
+Ajay's Stick Hero Game is a fun and challenging game where players must stretch a stick to help the hero cross platforms. The game tests precision and timing, making it highly engaging for users.
 
 * <a href="https://jagratimehta410.github.io/jag-portfolio/" target="_blank">Live Demo 🚀</a>
 * <a href="https://github.com/jagratimehta410/jag-portfolio" target="_blank">Repository 🗂️</a>
@@ -50,8 +50,8 @@ This project showcases my skills and work as a web developer. It features a clea
 
 Ajay-GeneratorQR allows you to create custom QR codes for various purposes, such as sharing links, contact information, or text messages.
 
-* <a href="https://jagratimehta410.github.io/Jag-GeneratorQR/" target="_blank">Live Demo 🚀</a>
-* <a href="https://github.com/jagratimehta410/Jag-GeneratorQR" target="_blank">Repository 🗂️</a>
+* <a href="https://jatavscript.github.io/Stick-Hero-Game/" target="_blank">Live Demo 🚀</a>
+* <a href="https://github.com/jatavscript/Stick-Hero-Game.git" target="_blank">Repository 🗂️</a>
 
 ### 3. Glob Techpower Foundation Website 🌍
 
