@@ -43,7 +43,7 @@ Tools
 
 Ajay's Stick Hero Game is a fun and challenging game where players must stretch a stick to help the hero cross platforms. The game tests precision and timing, making it highly engaging for users.
 
-* <a href="https://jatavscript.github.io/Stick-Hero-Game/" target="_blank">Live Demo 🚀</a>
+* <a href="https://jatavscript.github.io/Stick-Hero-Game" target="_blank">Live Demo 🚀</a>
 * <a href="https://github.com/jatavscript/Stick-Hero-Game.git" target="_blank">Repository 🗂️</a>
 
 ### 2. Ajay's - AI Image Generator
@@ -52,4 +52,11 @@ The AI Image Generator is a powerful web-based tool that transforms text descrip
 
 * <a href="https://jatavscript.github.io/Ai-ImageGenerator/" target="_blank">Live Demo 🚀</a>
 * <a href="https://github.com/jatavscript/Ai-ImageGenerator.git" target="_blank">Repository 🗂️</a>
+
+### 3. Ajay's - A Stellar Todo List 🚀
+
+Ajay's Cosmic Tasks is a beautifully designed and interactive to-do list that helps you organize your daily tasks in a cosmic and fun way.
+
+* <a href="https://jatavscript.github.io/To-Do-List/" target="_blank">Live Demo 🚀</a>
+* <a href="https://github.com/jatavscript/To-Do-List.git" target="_blank">Repository 🗂️</a>
 
